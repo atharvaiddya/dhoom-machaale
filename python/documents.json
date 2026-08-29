@@ -1,0 +1,25 @@
+{
+    "documents": [
+        {
+            "filename": "National_Std_Rules2019_1732709005.pdf",
+            "url": "https://consumeraffairs.gov.in/public/upload/files/National_Std_Rules2019_1732709005.pdf",
+            "sha256": "75284f24ef62192ecd712acb13cb989dc3e68ffb94dc8e100d8adb36e2b0dafa",
+            "downloaded_at": "2026-08-29T15:22:03.036149",
+            "processed": false
+        },
+        {
+            "filename": "6_0_1732709495.pdf",
+            "url": "https://consumeraffairs.gov.in/public/upload/files/6_0_1732709495.pdf",
+            "sha256": "c299488d511f753f7c8b9cd53aed01d2e6d4187794a7f603c273144312adea86",
+            "downloaded_at": "2026-08-29T15:23:32.872474",
+            "processed": false
+        },
+        {
+            "filename": "9_1732872040.pdf",
+            "url": "https://consumeraffairs.gov.in/public/upload/files/9_1732872040.pdf",
+            "sha256": "4b2150a857892425494375f5d1fe4cdfb12f755b3595f2e703f2346ea41401b1",
+            "downloaded_at": "2026-08-29T15:23:37.711147",
+            "processed": false
+        }
+    ]
+}
